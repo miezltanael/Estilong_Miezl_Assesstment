@@ -1,0 +1,65 @@
+/* global config */
+* {
+    margin: 0;
+    padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Noto+Sans:wght@400;700&display=swap');
+
+body {
+    font-family: 'Noto Sans',sans-serif;
+    line-height: 1.4;
+}
+a {
+    text-decoration: none;
+}
+p {
+    margin: 0.75px 0;
+}
+#asd {
+    height: 400px;
+    background-color: #fdf6f0;
+}
+.aaa {
+    max-width: 1100px;
+    margin: auto;
+    overflow: auto;
+}
+
+h2,
+h3,
+p {
+    padding: 0.2rem;
+    overflow: hidden;
+    color: #333;
+    padding-left: 5%;
+}
+h2 {
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+h3 {
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+.orange {
+    text-align: center;
+    color: #ff7600;
+}
+#asd .a, .s, .d {
+    float: left;
+    width: 33%;
+    overflow: hidden;
+    padding-top: 20px;
+}
+i {
+    float: left;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #f8e2cf;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
